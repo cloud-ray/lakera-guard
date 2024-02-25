@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "lakera"
+version = "0.1.0"
+description = ""
+authors = ["cloud-ray <ray@cybersavvy.one>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+gradio = "^4.19.2"
+python-dotenv = "^1.0.1"
+langchain-google-genai = "^0.0.9"
+requests = "^2.31.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
