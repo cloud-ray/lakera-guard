@@ -1,5 +1,5 @@
 # Protect Your LLM With Lakera Guard
-[![Video Preview](./images/cloudray-lakera-guard.gif)](https://res.cloudinary.com/doq2rvzev/video/upload/v1708862452/cloudray/cloudray-lakera-guard_ufnvrb.mp4)
+[![Video Preview](./images/cloudray-lakera-guard.gif)](https://res.cloudinary.com/doq2rvzev/video/upload/v1708862452/cloudray/cloudray-lakera-guard_ufnvrb.mp4)<br><br>
 [Watch the full video](https://res.cloudinary.com/doq2rvzev/video/upload/v1708862452/cloudray/cloudray-lakera-guard_ufnvrb.mp4)
 
 ## Project Overview
